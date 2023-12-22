@@ -1,5 +1,3 @@
-# fruit_detection
-
 # Fruit Detection with CNN
 
 Welcome to the Fruit Detection project! 🍎🍍🥝
@@ -22,3 +20,6 @@ This project focuses on using a Convolutional Neural Network (CNN) implemented i
 
 ## Getting Started
 train the model and download it from cnn notebook and don't forget in gui to change the dirctory of the model
+
+## DataSet
+ https://www.kaggle.com/datasets/aelchimminut/fruits262
